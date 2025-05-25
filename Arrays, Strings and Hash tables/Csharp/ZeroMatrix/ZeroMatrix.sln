@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMatrix", "ZeroMatrix\ZeroMatrix.csproj", "{B969EA51-C94A-493C-B119-1C93BC62DF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B969EA51-C94A-493C-B119-1C93BC62DF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B969EA51-C94A-493C-B119-1C93BC62DF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B969EA51-C94A-493C-B119-1C93BC62DF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B969EA51-C94A-493C-B119-1C93BC62DF28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D4AC4C-10A2-4443-A6FD-BF8B8842F74D}
+	EndGlobalSection
+EndGlobal
