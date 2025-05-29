@@ -1,0 +1,15 @@
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\bin\Debug\net8.0\MergeTwoSortedLists.exe
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\bin\Debug\net8.0\MergeTwoSortedLists.deps.json
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\bin\Debug\net8.0\MergeTwoSortedLists.runtimeconfig.json
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\bin\Debug\net8.0\MergeTwoSortedLists.dll
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\bin\Debug\net8.0\MergeTwoSortedLists.pdb
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\MergeTwoSortedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\MergeTwoSortedLists.AssemblyInfoInputs.cache
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\MergeTwoSortedLists.AssemblyInfo.cs
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\MergeTwoSortedLists.csproj.CoreCompileInputs.cache
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\MergeTwoSortedLists.sourcelink.json
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\MergeTwoSortedLists.dll
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\refint\MergeTwoSortedLists.dll
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\MergeTwoSortedLists.pdb
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\MergeTwoSortedLists.genruntimeconfig.cache
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\MergeTwoSortedLists\MergeTwoSortedLists\obj\Debug\net8.0\ref\MergeTwoSortedLists.dll
