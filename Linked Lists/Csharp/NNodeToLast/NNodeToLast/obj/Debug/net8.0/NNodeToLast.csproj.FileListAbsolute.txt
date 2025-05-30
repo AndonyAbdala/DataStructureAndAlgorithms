@@ -1,0 +1,15 @@
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\bin\Debug\net8.0\NNodeToLast.exe
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\bin\Debug\net8.0\NNodeToLast.deps.json
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\bin\Debug\net8.0\NNodeToLast.runtimeconfig.json
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\bin\Debug\net8.0\NNodeToLast.dll
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\bin\Debug\net8.0\NNodeToLast.pdb
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\NNodeToLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\NNodeToLast.AssemblyInfoInputs.cache
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\NNodeToLast.AssemblyInfo.cs
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\NNodeToLast.csproj.CoreCompileInputs.cache
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\NNodeToLast.sourcelink.json
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\NNodeToLast.dll
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\refint\NNodeToLast.dll
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\NNodeToLast.pdb
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\NNodeToLast.genruntimeconfig.cache
+C:\Users\GAA6GA\Documents\Courses\DataStructureAndAlgorithms\Linked Lists\Csharp\NNodeToLast\NNodeToLast\obj\Debug\net8.0\ref\NNodeToLast.dll
