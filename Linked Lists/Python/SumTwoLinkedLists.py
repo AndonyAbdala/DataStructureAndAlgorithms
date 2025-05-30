@@ -52,6 +52,48 @@ class SingleLinkedList:
             currentNode = currentNode.next
         print(f"{currentNode.data} -> END")
 
+# def SumTwoLinkedLists(linkedList1: SingleLinkedList, linkedList2: SingleLinkedList):
+#     result = Node(-1)
+#     currentResultNode = result
+
+#     currentNode1 = linkedList1.head
+#     currentNode2 = linkedList2.head
+
+#     acarreo = 0
+
+#     while currentNode1 != None and currentNode2 != None:
+#         resultSum = currentNode1.data + currentNode2.data
+
+#         resultSum = resultSum + acarreo
+#         acarreo = 0
+
+#         if resultSum > 9:
+#             acarreo = 1
+#             resultSum = resultSum - 10
+
+#         currentResultNode.next = Node(resultSum)
+#         currentResultNode = currentResultNode.next
+
+#         currentNode1 = currentNode1.next
+#         currentNode2 = currentNode2.next
+
+#     if currentNode1 != None and currentNode2 == None:
+#         while currentNode1 != None:
+#             currentResultNode.next = Node(currentNode1.data + acarreo)
+
+#             acarreo = 0
+#             currentNode1 = currentNode1.next
+#             currentResultNode = currentResultNode.next
+#     else:
+#         while currentNode2 != None:
+#             currentResultNode.next = Node(currentNode2.data + acarreo)
+#             auxCurrentNode = auxCurrentNode.next
+
+#             acarreo = 0
+#             currentNode1 = currentNode2.next
+#             currentResultNode = currentResultNode.next
+
+
 def SumTwoLinkedLists(linkedList1: SingleLinkedList, linkedList2: SingleLinkedList):
     result = Node(-1)
     currentResultNode = result
@@ -61,8 +103,17 @@ def SumTwoLinkedLists(linkedList1: SingleLinkedList, linkedList2: SingleLinkedLi
 
     acarreo = 0
 
-    while currentNode1 != None and currentNode2 != None:
-        resultSum = currentNode1.data + currentNode2.data
+    while currentNode1 != None or currentNode2 != None:
+        if currentNode1 == None:
+            currentNode1Value = 0
+        else:
+            currentNode1Value = currentNode1.data
+        if currentNode2 == None:
+            currentNode2Value = 0
+        else:
+            currentNode2Value = currentNode2.data
+
+        resultSum = currentNode1Value + currentNode2Value
 
         resultSum = resultSum + acarreo
         acarreo = 0
@@ -74,24 +125,13 @@ def SumTwoLinkedLists(linkedList1: SingleLinkedList, linkedList2: SingleLinkedLi
         currentResultNode.next = Node(resultSum)
         currentResultNode = currentResultNode.next
 
-        currentNode1 = currentNode1.next
-        currentNode2 = currentNode2.next
-
-    if currentNode1 != None and currentNode2 == None:
-        while currentNode1 != None:
-            currentResultNode.next = Node(currentNode1.data + acarreo)
-
-            acarreo = 0
+        if currentNode1 != None:
             currentNode1 = currentNode1.next
-            currentResultNode = currentResultNode.next
-    else:
-        while currentNode2 != None:
-            currentResultNode.next = Node(currentNode2.data + acarreo)
-            auxCurrentNode = auxCurrentNode.next
+        if currentNode2 != None:
+            currentNode2 = currentNode2.next
 
-            acarreo = 0
-            currentNode1 = currentNode2.next
-            currentResultNode = currentResultNode.next
+    if acarreo == 1:
+        currentResultNode.next = Node(1)
 
     resultList = SingleLinkedList()
     resultList.head = result.next
@@ -108,6 +148,7 @@ linkedList2= SingleLinkedList()
 linkedList2.appendToTail(2)
 linkedList2.appendToTail(9)
 linkedList2.appendToTail(5)
+linkedList2.appendToTail(7)
 linkedList2.printLinkedList()
 
 result = SumTwoLinkedLists(linkedList1, linkedList2)

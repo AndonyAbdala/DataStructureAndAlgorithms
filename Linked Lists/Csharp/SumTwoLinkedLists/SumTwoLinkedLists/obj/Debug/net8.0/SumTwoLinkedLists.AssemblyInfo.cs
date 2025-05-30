@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumTwoLinkedLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b81c473a5244c10ea80c9750dde74dc6b7947d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0478b7b2be26064e9db09eb572062349024e8d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumTwoLinkedLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumTwoLinkedLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

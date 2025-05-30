@@ -18,6 +18,7 @@ class SumTwoLinkedList
         myLinkedList2.AddLast(3);
         myLinkedList2.AddLast(7);
         myLinkedList2.AddLast(8);
+        myLinkedList2.AddLast(8);
         myLinkedList2.PrintLinkedList();
 
         Console.WriteLine();

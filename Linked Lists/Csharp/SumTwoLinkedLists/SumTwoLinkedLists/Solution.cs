@@ -24,10 +24,23 @@ namespace SumTwoLinkedListsNamespace
             Node currentNode1 = firstList.Head;
             Node currentNode2 = secondList.Head;
 
+            int currentNode1Value;
+            int currentNode2Value;
+
             int acarreo = 0;
-            while (currentNode1 != null && currentNode2 != null)
+            while (currentNode1 != null || currentNode2 != null)
             {
-                int result = currentNode1.Value + currentNode2.Value + acarreo;
+                if (currentNode1 == null)
+                    currentNode1Value = 0;
+                else
+                    currentNode1Value = currentNode1.Value;
+
+                if (currentNode2 == null)
+                    currentNode2Value = 0;
+                else
+                    currentNode2Value = currentNode2.Value;
+
+                int result = currentNode1Value + currentNode2Value + acarreo;
                 acarreo = 0;
                 if (result > 9)
                 {
@@ -37,30 +50,38 @@ namespace SumTwoLinkedListsNamespace
                 currentNodeOutput.Next = new Node(result);
 
                 currentNodeOutput = currentNodeOutput.Next;
-                currentNode1 = currentNode1.Next;
-                currentNode2= currentNode2.Next;
+
+                if (currentNode1 != null)
+                    currentNode1 = currentNode1.Next;
+                if (currentNode2 != null)
+                    currentNode2 = currentNode2.Next;
             }
 
-            if (currentNode1 != null && currentNode2 == null)
+            if (acarreo == 1)
             {
-                while (currentNode1 != null)
-                {
-                    currentNodeOutput.Next = new Node(currentNode1.Value + acarreo);
-                    acarreo = 0;
-                    currentNodeOutput = currentNodeOutput.Next;
-                    currentNode1 = currentNode1.Next;
-                }
+                currentNodeOutput.Next = new Node(1);
             }
-            else
-            {
-                while (currentNode2 != null)
-                {
-                    currentNodeOutput.Next = new Node(currentNode2.Value + acarreo);
-                    acarreo = 0;
-                    currentNodeOutput = currentNodeOutput.Next;
-                    currentNode2 = currentNode2.Next;
-                }
-            }
+
+            //if (currentNode1 != null && currentNode2 == null)
+            //{
+            //    while (currentNode1 != null)
+            //    {
+            //        currentNodeOutput.Next = new Node(currentNode1.Value + acarreo);
+            //        acarreo = 0;
+            //        currentNodeOutput = currentNodeOutput.Next;
+            //        currentNode1 = currentNode1.Next;
+            //    }
+            //}
+            //else
+            //{
+            //    while (currentNode2 != null)
+            //    {
+            //        currentNodeOutput.Next = new Node(currentNode2.Value + acarreo);
+            //        acarreo = 0;
+            //        currentNodeOutput = currentNodeOutput.Next;
+            //        currentNode2 = currentNode2.Next;
+            //    }
+            //}
 
             MyLinkedList linkedListOutput = new MyLinkedList();
             linkedListOutput.Head = output.Next;
