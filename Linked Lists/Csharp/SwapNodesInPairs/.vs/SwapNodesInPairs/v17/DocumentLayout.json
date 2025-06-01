@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAA6GA\\Documents\\Courses\\DataStructureAndAlgorithms\\Linked Lists\\Csharp\\SwapNodesInPairs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF46C9D-1777-4E48-B5CA-4E340FD8A7D1}|SwapNodesInPairs\\SwapNodesInPairs.csproj|c:\\users\\gaa6ga\\documents\\courses\\datastructureandalgorithms\\linked lists\\csharp\\swapnodesinpairs\\swapnodesinpairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF46C9D-1777-4E48-B5CA-4E340FD8A7D1}|SwapNodesInPairs\\SwapNodesInPairs.csproj|solutionrelative:swapnodesinpairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF46C9D-1777-4E48-B5CA-4E340FD8A7D1}|SwapNodesInPairs\\SwapNodesInPairs.csproj|c:\\users\\gaa6ga\\documents\\courses\\datastructureandalgorithms\\linked lists\\csharp\\swapnodesinpairs\\swapnodesinpairs\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF46C9D-1777-4E48-B5CA-4E340FD8A7D1}|SwapNodesInPairs\\SwapNodesInPairs.csproj|solutionrelative:swapnodesinpairs\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF46C9D-1777-4E48-B5CA-4E340FD8A7D1}|SwapNodesInPairs\\SwapNodesInPairs.csproj|c:\\users\\gaa6ga\\documents\\courses\\datastructureandalgorithms\\linked lists\\csharp\\swapnodesinpairs\\swapnodesinpairs\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF46C9D-1777-4E48-B5CA-4E340FD8A7D1}|SwapNodesInPairs\\SwapNodesInPairs.csproj|solutionrelative:swapnodesinpairs\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\GAA6GA\\Documents\\Courses\\DataStructureAndAlgorithms\\Linked Lists\\Csharp\\SwapNodesInPairs\\SwapNodesInPairs\\Solution.cs",
+              "RelativeDocumentMoniker": "SwapNodesInPairs\\Solution.cs",
+              "ToolTip": "C:\\Users\\GAA6GA\\Documents\\Courses\\DataStructureAndAlgorithms\\Linked Lists\\Csharp\\SwapNodesInPairs\\SwapNodesInPairs\\Solution.cs",
+              "RelativeToolTip": "SwapNodesInPairs\\Solution.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA5wB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:42:53.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\GAA6GA\\Documents\\Courses\\DataStructureAndAlgorithms\\Linked Lists\\Csharp\\SwapNodesInPairs\\SwapNodesInPairs\\MyLinkedList.cs",
+              "RelativeDocumentMoniker": "SwapNodesInPairs\\MyLinkedList.cs",
+              "ToolTip": "C:\\Users\\GAA6GA\\Documents\\Courses\\DataStructureAndAlgorithms\\Linked Lists\\Csharp\\SwapNodesInPairs\\SwapNodesInPairs\\MyLinkedList.cs",
+              "RelativeToolTip": "SwapNodesInPairs\\MyLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:42:42.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAA6GA\\Documents\\Courses\\DataStructureAndAlgorithms\\Linked Lists\\Csharp\\SwapNodesInPairs\\SwapNodesInPairs\\Program.cs",
+              "RelativeDocumentMoniker": "SwapNodesInPairs\\Program.cs",
+              "ToolTip": "C:\\Users\\GAA6GA\\Documents\\Courses\\DataStructureAndAlgorithms\\Linked Lists\\Csharp\\SwapNodesInPairs\\SwapNodesInPairs\\Program.cs",
+              "RelativeToolTip": "SwapNodesInPairs\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:41:49.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
